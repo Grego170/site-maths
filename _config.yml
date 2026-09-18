@@ -1,0 +1,21 @@
+# ==============================================================
+#  RÉGLAGES DU SITE — à personnaliser
+#  Après une modification, le site se met à jour en 1 à 2 minutes.
+# ==============================================================
+
+title: "Mathématiques MP2I"
+professeur: "M. Dupont"
+etablissement: "Lycée Exemple"
+annee: "2026 – 2027"
+description: "Cours, feuilles d'exercices, programmes de colle et devoirs de la classe de MP2I."
+
+
+# --------------------------------------------------------------
+#  Réglages techniques : pas besoin d'y toucher
+# --------------------------------------------------------------
+lang: fr
+timezone: Europe/Paris
+permalink: pretty
+markdown: kramdown
+exclude:
+  - README.md
